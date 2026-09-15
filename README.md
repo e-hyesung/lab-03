@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Hye Sung Lee Zepeda
+- **CCID:** leezeped
 
 ## References and Resources
 
