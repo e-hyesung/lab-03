@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+chatGPT: more info commented in respective file
 
 ## Verbal Collaboration
 
